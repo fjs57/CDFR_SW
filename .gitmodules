@@ -1,0 +1,3 @@
+[submodule "src/hw_if_pkg/CDFR_COM_LIB"]
+	path = src/hw_if_pkg/CDFR_COM_LIB
+	url = git@github.com:fjs57/CDFR_COM_LIB.git
